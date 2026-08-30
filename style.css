@@ -43,6 +43,7 @@ p {
 #navbar li a {
   display: block;
   color: white;
+  font-family:"Henny Penny",Arial,sans-serif;
   text-align: center;
   padding: 14px 75px;
   text-decoration: none;
