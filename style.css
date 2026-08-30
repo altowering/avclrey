@@ -57,6 +57,7 @@ p {
   text-align: center;
   font-size: 35px;
 }
+/*FONTS*/
 .ole-regular {
   font-family: "Ole", cursive;
   font-weight: 400;
@@ -72,7 +73,17 @@ p {
   font-weight: 400;
   font-style: normal;
 }
-
+.henny-penny-regular {
+  font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.coral-pixels-regular {
+  font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/*END OF FONTS*/
 span {
     padding: 0.6em 13.7px;
     line-height: 1.8em;
