@@ -1,5 +1,6 @@
 body {
   background-color: #EEECE8;
+  
 }
 
 h1 {
@@ -12,12 +13,12 @@ p {
   font-size: 20px;
 }
 #title h1 {
- font-family:"ole-regular", Arial, sans-serif; 
+ font-family:"ole-regular", Arial, serif; 
   color:#361d10;
   font-size: 100px;
 }
 #subtitle h1 {
- font-family:"ole-regular", Arial, sans-serif; 
+ font-family:"ole-regular", Arial, serif; 
   color:#361d10;
   font-size: 60px;
 }
