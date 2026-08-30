@@ -20,6 +20,12 @@ p {
   margin: 0;
   padding: 0;
 }
+.container {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
 #subtitle h1 {
   font-family:"Ole", serif; 
   color:#361d10;
