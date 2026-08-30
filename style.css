@@ -14,14 +14,18 @@ p {
   font-size: 20px;
 }
 #title h1 {
- font-family:"ole-regular", Georgia, serif; 
+  font-family:"ole-regular", Georgia, serif; 
   color:#361d10;
   font-size: 100px;
+  margin: 0;
+  padding: 0;
 }
 #subtitle h1 {
- font-family:"Ole", mono; 
+  font-family:"Ole", mono; 
   color:#361d10;
   font-size: 60px;
+  margin: 0;
+  padding: 0;
 }
 #navbar ul {
   list-style-type: none;
