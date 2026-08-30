@@ -3,18 +3,40 @@ body {
 }
 
 h1 {
-  color: white;
+  color: #361d10;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
+  font-family: georgia;
   font-size: 20px;
 }
-ul {
+#subtitle h1 {
+ font-family:"ole-regular", Arial, sans-serif; 
+  color:#361d10;
+}
+#navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #4da6ff;
+}
+
+#navbar li {
+  float: left;
+}
+
+#navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 75px;
+  text-decoration: none;
+}
+
+#navbar li a:hover {
+  background-color: #80bfff;
 }
 .header {
   background-color: #71a2b6;
