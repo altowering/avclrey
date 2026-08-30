@@ -21,10 +21,6 @@ p {
   padding: 0;
 }
 .container {
-  display: inline-flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: flex-end;
 }
 #subtitle h1 {
   font-family:"Ole", serif; 
@@ -40,6 +36,11 @@ p {
   overflow: hidden;
   background-color: #d295bf;
   opacity: 0.75;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
 }
 
 #navbar li {
