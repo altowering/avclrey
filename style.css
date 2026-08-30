@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: #EEECE8;
 }
 
 h1 {
@@ -15,4 +15,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+.header {
+  background-color: #71a2b6;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
 }
