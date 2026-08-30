@@ -22,3 +22,8 @@ ul {
   text-align: center;
   font-size: 35px;
 }
+.ole-regular {
+  font-family: "Ole", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
